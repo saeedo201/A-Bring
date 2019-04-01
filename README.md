@@ -9,7 +9,7 @@ cd A-Bring
 
 ls
 
-cchmod +x link.py
+chmod +x link.py
 
 python2 link.py
 
